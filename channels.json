@@ -1,104 +1,1976 @@
 [
   {
-    "id": 10100101,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-01.jpg",
-    "title": "المدخل إلى مناهج البحث العلمي",
-    "code": "Ar 001-01"
+    "id": 1,
+    "title": "AMC",
+    "link": "https://amchls.wns.live/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100102,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-02.jpg",
-    "title": "أساسيات البحث العلمي",
-    "code": "Ar 001-02"
+    "id": 2,
+    "title": "Dunya Naw TV",
+    "link": "https://dunyanhls.wns.live/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100103,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-03.jpg",
-    "title": "أساليب البحث العلمي  ' في تطبيقاته في التخطيط و الإدارة'",
-    "code": "Ar 001-03"
+    "id": 3,
+    "title": "Eslah TV",
+    "link": "https://eslahtvhls.wns.live/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100104,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-04.jpg",
-    "title": "أساليب البحث العلمي 'في العلوم الإنسانية و الإجتماعية'",
-    "code": "Ar 001-04"
+    "id": 4,
+    "title": "RTA News",
+    "link": "https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA2)/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100105,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-05.jpg",
-    "title": "مناهج البحث العلمي اساسيات البحث العلمي",
-    "code": "Ar 001-05"
+    "id": 5,
+    "title": "Tamadon TV",
+    "link": "https://hls.tamadon.live/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100106,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-06.jpg",
-    "title": "مناهج البحث العلمي طرق البحث النوعي",
-    "code": "Ar 001-06"
+    "id": 6,
+    "title": "Sharq Radio TV",
+    "link": "https://59nyqa5elwap-hls-live.5centscdn.com/Sharq/eec89088ee408b80387155272b113256.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100107,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-07.jpg",
-    "title": "مناهج البحث العلمي تصميم البحث و التحليل الإحصائي",
-    "code": "Ar 001-07"
+    "id": 7,
+    "title": "AlbKanale Music TV",
+    "link": "https://albportal.net/albkanalemusic.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100108,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-08.jpg",
-    "title": "مناهج البحث العلمي",
-    "code": "Ar 001-08"
+    "id": 8,
+    "title": "Kanali 7",
+    "link": "https://fe.tring.al/delta/105/out/u/1200_1.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100109,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-09.jpg",
-    "title": "منهج البحث العلمي",
-    "code": "Ar 001-09"
+    "id": 9,
+    "title": "Ora News",
+    "link": "https://live1.mediadesk.al/oranews.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100110,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-10.jpg",
-    "title": "البحث العلمي و استخدام مصادر المعلومات التقليدية والإلكترونية",
-    "code": "Ar 001-10"
+    "id": 10,
+    "title": "Canal Algérie",
+    "link": "https://bozztv.com/inim03/live1/giniko_canalalgerie/chunks.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100111,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-11.jpg",
-    "title": "البحث العلمي ومناهجه في العلوم الإجتماعية و السلوكية",
-    "code": "Ar 001-11"
+    "id": 11,
+    "title": "KK TV",
+    "link": "https://w1.manasat.com/ktv-angola/smil:ktv-angola.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100112,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-12.jpg",
-    "title": "الدليل الشامل في البحث العلمي",
-    "code": "Ar 001-12"
+    "id": 12,
+    "title": "Muzangala TV",
+    "link": "https://5cf4a2c2512a2.streamlock.net/tvmuzangala/tvmuzangala/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100113,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-13.jpg",
-    "title": "طرق جمع البيانات والمعلومات لأغراض البحث العلمي",
-    "code": "Ar 001-13"
+    "id": 13,
+    "title": "Aire de Santa Fe",
+    "link": "https://unlimited1-us.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100114,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-14.jpg",
-    "title": "طرق ومناهج البحث العلمي في الإدارة والعلوم الأخرى",
-    "code": "Ar 001-14"
+    "id": 14,
+    "title": "AlternaTV",
+    "link": "https://alternatv.ar/stream/hls/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100115,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-15.jpg",
-    "title": "الأصول المنهجية لإعداد البحوث العلمية",
-    "code": "Ar 001-15"
+    "id": 15,
+    "title": "Antena 91",
+    "link": "https://tuvideoonline.com.ar:3393/live/antena91live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100116,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-16.jpg",
-    "title": "أصول البحث العلمي ومناهجه",
-    "code": "Ar 001-16"
+    "id": 16,
+    "title": "Argentinísima Satelital",
+    "link": "https://stream1.sersat.com/hls/argentinisima.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   },
   {
-    "id": 10100117,
-    "cover": "https://raw.githubusercontent.com/cabdellah/BD/main/cover/TahAr_001-17.jpg",
-    "title": "موجز في تاريخ العلوم والمعارف",
-    "code": "Ar 001-17"
+    "id": 17,
+    "title": "Misiones Cuatro",
+    "link": "https://streamlov.alsolnet.com/misionescuatro/live/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 18,
+    "title": "ARTN TV",
+    "link": "https://streamer1.connectto.com/ARTN_mobile/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 19,
+    "title": "First Channel News",
+    "link": "https://amtvusdvr.tulix.tv/am3abr/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 20,
+    "title": "Cool FM 98.9",
+    "link": "https://live2.tensila.com/cool-v-1.arubara/hls/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 21,
+    "title": "Heart Radio Aruba",
+    "link": "https://live2.tensila.com/heart-v-1.heartar/hls/live/mystream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 22,
+    "title": "VIP TV",
+    "link": "https://ed5ov1.live.opencaster.com/bkyqeDgfaukC/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 23,
+    "title": "ABC Me",
+    "link": "https://c.mjh.nz/abc-me.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 24,
+    "title": "Bloomberg TV",
+    "link": "https://bloomberg.com/media-manifest/streams/aus.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 25,
+    "title": "Channel 44",
+    "link": "https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 26,
+    "title": "Hope Channel",
+    "link": "https://videodelivery.net/9fb3596948ddf463fde0ec4b85625b24/manifest/video.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 27,
+    "title": "Racing",
+    "link": "https://racingvic-i.akamaized.net/hls/live/598695/racingvic/index1500.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 28,
+    "title": "Ticker News",
+    "link": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01486-tickernews-tickernewsweb-ono/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 29,
+    "title": "TVSN",
+    "link": "https://tvsnhlslivetest.akamaized.net/hls/live/2034711/TVSN-MSL4/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 30,
+    "title": "FUEL TV",
+    "link": "https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/fuel-tv/606c2f67-acff-4152-975a-e5bfef54eb61/2.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 31,
+    "title": "K-TV",
+    "link": "https://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 32,
+    "title": "Kronehit",
+    "link": "https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 33,
+    "title": "Okto TV",
+    "link": "https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 34,
+    "title": "Red Bull TV",
+    "link": "https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 35,
+    "title": "TV 1 Oberösterreich",
+    "link": "https://streaming10.huberwebmedia.at/LiveApp/streams/238985177034727564068269_adaptive.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 36,
+    "title": "AZ News",
+    "link": "https://edge1.socialsmart.tv/aznews/smil/aznews/720p/chunks.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 37,
+    "title": "Az TV",
+    "link": "https://str.yodacdn.net/aztv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 38,
+    "title": "Ekushey TV",
+    "link": "https://ekusheyserver.com/etvlivesn.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 39,
+    "title": "CBC TV8",
+    "link": "https://1740288887.rsc.cdn77.org/1740288887/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 40,
+    "title": "СТБ",
+    "link": "https://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 41,
+    "title": "Bel RTL",
+    "link": "https://bel-live-hls.akamaized.net/hls/live/2038650/BEL-Live-HLS/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 42,
+    "title": "Afrika Media TV",
+    "link": "https://goccn.cloud/hls/belafrikatv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 43,
+    "title": "LN24",
+    "link": "https://live-ln24.digiteka.com/1911668011/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 44,
+    "title": "Q-Music",
+    "link": "https://dpp-streamlive-plain.medialaancdn.be/qmusic/plain/hls.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 45,
+    "title": "Stêrk TV",
+    "link": "https://muzkurd.com/sterktv/sterk/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 46,
+    "title": "VTM",
+    "link": "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream1.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 47,
+    "title": "VTM 2",
+    "link": "https://dpp-live-events.medialaancdn.be/events/hls/aes/webstream3.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 48,
+    "title": "Bénin Web TV",
+    "link": "https://vdo.pro-fhi.net:3244/stream/play.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 49,
+    "title": "Canal 3 Bénin",
+    "link": "https://live.creacast.com/bluediamond/stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 50,
+    "title": "Abya Yala TV",
+    "link": "https://master.tucableip.com/abyayalatv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 51,
+    "title": "MegaTV",
+    "link": "https://solo.disfrutaenlared.com:1936/tvcbba/tvcbba/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 52,
+    "title": "TV Show Oruro",
+    "link": "http://tv.istbolivia.com:1935/tvshow/tvshow/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 53,
+    "title": "Live99FM",
+    "link": "https://media.streambrothers.com:19360/8022/8022.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 54,
+    "title": "BN TV",
+    "link": "https://rtvbn.tv:8080/live/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 55,
+    "title": "RTV Zenica",
+    "link": "https://stream.rtvze.ba/live/123/123.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 56,
+    "title": "Adesso TV",
+    "link": "https://cdn.jmvstream.com/w/LVW-9715/LVW9715_12B26T62tm/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 57,
+    "title": "All Sports",
+    "link": "https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 58,
+    "title": "Bem TV",
+    "link": "http://wz4.dnip.com.br/bemtv/bemtv.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 59,
+    "title": "Canal Educação",
+    "link": "https://canaleducacao-stream.ebc.com.br/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 60,
+    "title": "Canal Gov",
+    "link": "https://canalgov-stream.ebc.com.br/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 61,
+    "title": "Novo Tempo",
+    "link": "https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 62,
+    "title": "CBN TV",
+    "link": "https://5790d294af2dc.streamlock.net/CBNVI/CBNVI/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 63,
+    "title": "Evrokom",
+    "link": "https://live.ecomservice.bg/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 64,
+    "title": "Hope Channel",
+    "link": "https://hc1.hopetv.bg/live/hopetv_all.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 65,
+    "title": "RM TV",
+    "link": "https://transcoder1.bitcare.eu/streaming/rimextv/rmtv.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 66,
+    "title": "Burkina Info TV",
+    "link": "http://69.64.57.208/burkinainfo/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 67,
+    "title": "Apsara TV11",
+    "link": "https://live.ams.com.kh/app/stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 68,
+    "title": "Bayon TV",
+    "link": "https://live.kh.malimarcdn.com/live/bayonhd.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 69,
+    "title": "Netlink TV",
+    "link": "https://netlink.netlinkbroadcaster.com/hls/test.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 70,
+    "title": "CEN Télévision",
+    "link": "https://strhlslb01.streamakaci.tv/cen/cen-multi/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 71,
+    "title": "CTV Afrique",
+    "link": "https://stream.it-innov.com/ctv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 72,
+    "title": "Afghan Nobel Movies",
+    "link": "https://live.relentlessinnovations.net:1936/afghannobel/afghannobel/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 73,
+    "title": "Afghan Nobel TV",
+    "link": "https://live.relentlessinnovations.net:1936/afghannobeltv/afghannobeltv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 74,
+    "title": "Amazing Discoveries TV",
+    "link": "https://uni01rtmp.tulix.tv/amazingdtv/amazingdtv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 75,
+    "title": "Assemblée Nationale du Québec",
+    "link": "https://cdn3.wowza.com/5/SVEySlNEQ0FOWXlS/diffusion/canal17/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 76,
+    "title": "Az Star TV",
+    "link": "https://live.livestreamtv.ca/azstar/ngrp:azstar/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 77,
+    "title": "Canal Savoir",
+    "link": "https://hls.savoir.media/live/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 78,
+    "title": "TV Cidade",
+    "link": "https://stmv1.srvif.com/tvcidade/tvcidade/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 79,
+    "title": "Télé Tchad",
+    "link": "https://strhlslb01.streamakaci.tv/str_tchad_tchad/str_tchad_multi/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 80,
+    "title": "13 Entretención",
+    "link": "https://origin.dpsgo.com/ssai/event/BBp0VeP6QtOOlH8nu3bWTg/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 81,
+    "title": "13 Festival",
+    "link": "https://origin.dpsgo.com/ssai/event/Nftd0fM2SXasfDlRphvUsg/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 82,
+    "title": "Bread TV面包台",
+    "link": "https://video.bread-tv.com:8091/hls-live24/online/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 83,
+    "title": "VOA美国之音",
+    "link": "https://voa-ingest.akamaized.net/hls/live/2033878/tvmc08/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 84,
+    "title": "Agenda Al Día TV",
+    "link": "https://cp.panelchs.com:1936/8156/8156/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 85,
+    "title": "ANC Televisión",
+    "link": "https://canal.mediaserver.com.co/live/ANCTELEVISION.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 86,
+    "title": "¡OPA!",
+    "link": "https://opa.usastreams.com:3101/live/canalopalive.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 87,
+    "title": "Cristo Visión Canal 31",
+    "link": "https://3a310f6ec721e6b362fcd22772b57f36a2fe6bb2.tabeelcr.com:8080/cristovision31/iptv.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 88,
+    "title": "Enlace",
+    "link": "https://livecdn.enlace.plus/enlace/smil:enlace-hd.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 89,
+    "title": "CMC TV",
+    "link": "https://stream.cmctv.hr:49998/cmc/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 90,
+    "title": "HRT 1",
+    "link": "https://webtvstream.bhtelecom.ba/hrt1.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 91,
+    "title": "HRT 2",
+    "link": "https://webtvstream.bhtelecom.ba/hrt2.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 92,
+    "title": "HRT 3",
+    "link": "https://webtvstream.bhtelecom.ba/hrt3.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 93,
+    "title": "Klape i Tambure TV",
+    "link": "https://stream.cmctv.hr:49998/kit/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 94,
+    "title": "STV",
+    "link": "http://89.201.163.244:8080/hls/hdmi.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 95,
+    "title": "Prensa Latina TV",
+    "link": "https://eu1.servers10.com:8081/8192/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 96,
+    "title": "Radio y Televisión Martí",
+    "link": "https://ocb-ingest.akamaized.net/hls/live/2037032/tvmc01/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 97,
+    "title": "ADA TV",
+    "link": "https://sc-kuzeykibrissmarttv.ercdn.net/adatv/bant1/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 98,
+    "title": "Elektrika TV",
+    "link": "https://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 99,
+    "title": "JČ1",
+    "link": "https://stream.jc1.cz/hls/jc1.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 100,
+    "title": "Minimax",
+    "link": "http://88.212.7.10/live/test_minimax/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 101,
+    "title": "Óčko",
+    "link": "https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 102,
+    "title": "TV 2 Kosmopol",
+    "link": "https://cdnapi.kaltura.com/p/2045321/sp/204532100/playManifest/entryId/1_2kojfk4m/format/applehttp/protocol/https/uiConfId/32599481/a.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 103,
+    "title": "TV2 Nord",
+    "link": "https://cdnapi.kaltura.com/p/1956931/sp/195693100/playManifest/entryId/1_h9yfe7h2/protocol/https/format/applehttp/a.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 104,
+    "title": "TV2 Øst",
+    "link": "https://cdnapi.kaltura.com/p/1953381/sp/195338100/playManifest/entryId/0_zphj9q61/protocol/https/format/applehttp/a.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 105,
+    "title": "TDN TV",
+    "link": "https://liveurestreamingcomlive.cdn.ypt.me/62ec67ea435c6.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 106,
+    "title": "Agenda 56",
+    "link": "https://cloudflare.streamgato.us:3148/live/agenda56tvlive.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 107,
+    "title": "Amé 47",
+    "link": "https://ss9.domint.net:3040/ame_str/amecanal47/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 108,
+    "title": "Bonao TV",
+    "link": "https://ss5.domint.net:3026/btv_str/bonao/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 109,
+    "title": "América Estéreo Guayaquil",
+    "link": "https://video.makrodigital.com/americaestereoguayaquil/americaestereoguayaquil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 110,
+    "title": "América Estéreo Ibarra",
+    "link": "https://video.makrodigital.com/americaestereoibarra/americaestereoibarra/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 111,
+    "title": "Alfath Atfal TV",
+    "link": "https://alfat7-q.com:5443/LiveApp/streams/434833549141598440488987.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 112,
+    "title": "Alfath Sonnah TV",
+    "link": "https://alfat7-q.com:5443/LiveApp/streams/986613792230697141226562.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 113,
+    "title": "Canal 3 Impresionante",
+    "link": "https://cloud2.streaminglivehd.com:1936/8048/8048/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 114,
+    "title": "SolTV",
+    "link": "https://stream.solmediaeg.com/soltv/soltv.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 115,
+    "title": "Addis TV",
+    "link": "https://rrsatrtmp.tulix.tv/addis1/addis1multi.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 116,
+    "title": "EBS Cinema",
+    "link": "https://rpn.bozztv.com/ebstv/ebscinema/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 117,
+    "title": "EBS HD",
+    "link": "https://rpn.bozztv.com/ebstv/ebstv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 118,
+    "title": "AVA",
+    "link": "https://live-fi.tvkaista.net/ava/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 119,
+    "title": "Frii",
+    "link": "https://live-fi.tvkaista.net/frii/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 120,
+    "title": "Himlen TV7",
+    "link": "https://vod.tv7.fi/tv7-se/smil:tv7-se.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 121,
+    "title": "20 Minutes TV",
+    "link": "https://lives.digiteka.com/stream/86d3e867-a272-496b-8412-f59aa0104771/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 122,
+    "title": "A12 TV",
+    "link": "https://video1.getstreamhosting.com:1936/8420/8420/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 123,
+    "title": "Albi TV",
+    "link": "https://live.creacast.com/albi-tv-ch1/stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 124,
+    "title": "Abaza TV",
+    "link": "https://public.apsny.camera/tv_abaza_tv_to_site/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 125,
+    "title": "Formula",
+    "link": "https://c4635.cdn.xsg.ge/c4635/TVFormula/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 126,
+    "title": "Imedi TV",
+    "link": "https://tv.cdn.xsg.ge/imedihd/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 127,
+    "title": "1-2-3 TV",
+    "link": "https://123tv-mx1.flex-cdn.net/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 128,
+    "title": "Anixe +",
+    "link": "https://ma.anixa.tv/clips/stream/anixesd/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 129,
+    "title": "Anixe HD Serie",
+    "link": "https://ma.anixa.tv/clips/stream/anixehd/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 130,
+    "title": "ARD-alpha",
+    "link": "http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 131,
+    "title": "Aristo TV",
+    "link": "https://ma.anixa.tv/clips/stream/aristo/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 132,
+    "title": "ChannelOne TV",
+    "link": "https://2ctv.crystaltv.mobi:44095/tv877.167.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 133,
+    "title": "GHtv Holland",
+    "link": "http://37.48.120.77:8080/hls/ghtvonline.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 134,
+    "title": "Hope Channel Ghana",
+    "link": "https://videodelivery.net/dfbdca87f2a6291aa4fdc8fe3290769b/manifest/video.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 135,
+    "title": "ART TV",
+    "link": "https://til.pp.ua:3711/live/arttvgr70live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 136,
+    "title": "Baraza TV Deep House",
+    "link": "https://rtmp.streams.ovh:1936/barazarelax/barazazararelax/barazarelax/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 137,
+    "title": "Radio TV Basse-Terre",
+    "link": "https://vdo.ssl-stream.com:3412/stream/play.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 138,
+    "title": "RHT Guadeloupe",
+    "link": "https://edge12.vedge.infomaniak.com/livecast/ik:livehautetension/manifest.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 139,
+    "title": "Aurora Media Films",
+    "link": "https://cdn.streamhispanatv.net:3417/live/auroramflive.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 140,
+    "title": "Cavi TV",
+    "link": "https://helga.iptv2022.com/Cavi_TV/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 141,
+    "title": "FL Sport",
+    "link": "https://tvsw5-hls.secdn.net/tvsw5-chorigin/play/prod-8ce1fcb47fa7474d84640eb766f0ef38/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 142,
+    "title": "Fidele TV",
+    "link": "https://59d39900ebfb8.streamlock.net/FIDELETV/FIDELETV/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 143,
+    "title": "Radio Télé 4VEH",
+    "link": "https://uni01rtmp.tulix.tv/4vehtv/4vehtv-firetv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 144,
+    "title": "Bloomberg TV Asia",
+    "link": "https://bloomberg.com/media-manifest/streams/asia.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 145,
+    "title": "Bloomberg TV Asia Live Event",
+    "link": "https://bloomberg.com/media-manifest/streams/asia-event.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 146,
+    "title": "凤凰资讯",
+    "link": "http://php.17186.eu.org/phtv/fhzx.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 147,
+    "title": "16tv Budapest",
+    "link": "https://cloudfront44.lexanetwork.com:1344/freerelay/16tv.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 148,
+    "title": "ESTV",
+    "link": "https://cloudfront44.lexanetwork.com:1344/relay01/HDE032.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 149,
+    "title": "RÚV",
+    "link": "https://ruv-web-live.akamaized.net/streymi/ruverl/ruverl.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 150,
+    "title": "Vísir",
+    "link": "https://live.visir.is/hls-live/visir.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 151,
+    "title": "9XM",
+    "link": "https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 152,
+    "title": "Aaj Tak",
+    "link": "https://feeds.intoday.in/aajtak/api/aajtakhd/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 153,
+    "title": "AKTV",
+    "link": "https://e.siar.us/live/aktv.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 154,
+    "title": "Alborz TV",
+    "link": "https://hls.247box.live/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 155,
+    "title": "Abalfadhl TV",
+    "link": "https://t.northtelecom.org/ABALFADHLTV.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 156,
+    "title": "Afaq TV",
+    "link": "http://63b03f7689049.streamlock.net:1935/live/1/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 157,
+    "title": "Cúla4",
+    "link": "https://d3eq0jseza7fm5.cloudfront.net/tg4_vod_3.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 158,
+    "title": "ch 21 ערוץ הקניות",
+    "link": "https://shoppingil-rewriter.vidnt.com/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 159,
+    "title": "Adnkronos",
+    "link": "https://5e73cf528f404.streamlock.net/GR_sport/livestream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 160,
+    "title": "Aurora Arte",
+    "link": "https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 161,
+    "title": "Alpha et Omega TV",
+    "link": "https://video1.getstreamhosting.com:1936/8318/8318/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 162,
+    "title": "Caribbean Gospel TV",
+    "link": "https://5a1178b42cc03.streamlock.net:443/CGTV2024/CGTV2024/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 163,
+    "title": "Fame95 FM",
+    "link": "https://rjr-fame.akamaized.net/hls/live/2033820/RJR_FAME/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 164,
+    "title": "AT-X",
+    "link": "https://neetball.net/live/neet3.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 165,
+    "title": "CGNTV Japan",
+    "link": "https://cgntvliveweb-944.acs.wecandeo.com/ms/2850/944/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 166,
+    "title": "NTV News24",
+    "link": "https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 167,
+    "title": "Haqiqa",
+    "link": "https://jmc-live.ercdn.net/alhaqiqa/alhaqiqa.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 168,
+    "title": "Kaifa TV",
+    "link": "hhttp://82.212.74.2:8000/live/7311.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 169,
+    "title": "Abai TV",
+    "link": "https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 170,
+    "title": "Alau TV",
+    "link": "https://otv.wotom.net/alau/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 171,
+    "title": "Balapan TV",
+    "link": "https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 172,
+    "title": "Ontústik",
+    "link": "https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 173,
+    "title": "Semeı",
+    "link": "https://stream.kaztrk.kz/regional/semeytv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 174,
+    "title": "Citizen Extra",
+    "link": "https://74937.global.ssl.fastly.net/5ea49827ff3b5d7b22708777/live_40c5808063f711ec89a87b62db2ecab5/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 175,
+    "title": "Inooro TV",
+    "link": "https://74937-castr.akamaized.net/5ea49827ff3b5d7b22708777/live_cd93fa8063f411ecb28b5d4f40b51a46/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 176,
+    "title": "Morning Cloud TV",
+    "link": "https://webstreaming.viewmedia.tv/web_026/Stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 177,
+    "title": "Ramogi TV",
+    "link": "https://citizentv.castr.com/5ea49827ff3b5d7b22708777/live_9b761ff063f511eca12909b8ef1524b4/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 178,
+    "title": "TV Arbëria 1",
+    "link": "https://yayin30.haber100.com/live/rtvarberia/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 179,
+    "title": "Arbëria 2",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia2/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 180,
+    "title": "TV Arbëria 3 Fëmijë",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia3/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 181,
+    "title": "TV Arbëria 4 Muzikë",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia4/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 182,
+    "title": "TV Arbëria 5",
+    "link": "https://ssh101.bozztv.com/ssh101/rtvarberia5/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 183,
+    "title": "KTV 1",
+    "link": "https://kwtktv1ta.cdn.mangomolo.com/ktv1/smil:ktv1.stream.smil/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 184,
+    "title": "KTV 2",
+    "link": "https://kwtktv2ta.cdn.mangomolo.com/ktv2/smil:ktv2.stream.smil/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 185,
+    "title": "KTV Sport",
+    "link": "https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 186,
+    "title": "312 Кино",
+    "link": "http://176.126.166.43:1935/live/312kino/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 187,
+    "title": "312 TB",
+    "link": "http://176.126.166.43:1935/live/312musik/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 188,
+    "title": "TV1 KG",
+    "link": "http://212.2.225.30:1935/live/site.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 189,
+    "title": "Brian TV",
+    "link": "https://livefta.malimarcdn.com/ftaedge00/briantv.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 190,
+    "title": "Caribbean Hot 7 TV",
+    "link": "https://586a9edea75f1.streamlock.net/caribbeanhot7tv/ch7-1.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 191,
+    "title": "Al Mayadeen",
+    "link": "https://mdnlv.cdn.octivid.com/almdn/smil:mpegts.stream.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 192,
+    "title": "ALWifak News TV",
+    "link": "http://stream.spilebanon.com:1935/live/myStream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 193,
+    "title": "LNTV",
+    "link": "http://185.59.221.131:8081/live/lntv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 194,
+    "title": "Al Masar TV",
+    "link": "https://master.starmena-cloud.com/hls/almasar.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 195,
+    "title": "M-1",
+    "link": "https://m-1.data.lt/m-1/smil:m-1.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 196,
+    "title": "apart TV",
+    "link": "https://2-fss-2.streamhoster.com/pl_124/206820-4338160-1/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 197,
+    "title": "Chamber TV",
+    "link": "https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 198,
+    "title": "Re TV",
+    "link": "https://retv2132.cloudycdn.services/slive/_definst_/retv_retv_channel_5k7_42787_default_891_hls.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 199,
+    "title": "TVNET",
+    "link": "https://player.tvnet.lv/stream/amlst:61659/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 200,
+    "title": "Al Masar TV",
+    "link": "https://master.starmena-cloud.com/hls/almasar.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 201,
+    "title": "February Channel",
+    "link": "https://b01c02nl.mediatriple.net/videoonlylive/mtfknklgwrlive/broadcast_5dc818c793576.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 202,
+    "title": "2M Monde",
+    "link": "https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/2m_monde/hls_video_ts_tuhawxpiemz257adfc/2m_monde.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 203,
+    "title": "Chada TV",
+    "link": "https://chadatv.vedge.infomaniak.com/livecast/chadatv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 204,
+    "title": "Télé Maroc",
+    "link": "https://api.new.livestream.com/accounts/27130247/events/9197096/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 205,
+    "title": "Superyacht TV",
+    "link": "https://sy.wns.live/hls/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 206,
+    "title": "TV Teuta",
+    "link": "https://teutastream.com/tvteuta/tracks-v1a1/mono.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 207,
+    "title": "Folk Klub",
+    "link": "http://tv1.intv.mk:1935/live2/folkklub/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 208,
+    "title": "INTV Australia",
+    "link": "http://tv1.intv.mk:1935/live/intv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 209,
+    "title": "Cinema One",
+    "link": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 210,
+    "title": "Channel K",
+    "link": "https://l1-xl1.myanmarnet.com/relay/channelk/ch1/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 211,
+    "title": "Mahar",
+    "link": "https://tv.mahar.live/mahar/website.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 212,
+    "title": "MCS",
+    "link": "https://l1-xl1.myanmarnet.com/relay2/mcs/ch1/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 213,
+    "title": "MNTV",
+    "link": "https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 214,
+    "title": "AfroSport Nigeria",
+    "link": "https://newproxy3.vidivu.tv/vidivu_afrosport/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 215,
+    "title": "AMusic Channel",
+    "link": "http://mn-nl.mncdn.com/amusictv/amusicsrt.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 216,
+    "title": "Dove TV",
+    "link": "https://webstreaming-7.viewmedia.tv/web_093/Stream/live93_3/high/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 217,
+    "title": "Canal Motor",
+    "link": "https://digicom.hls.iptvdc.com/canalmotor/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 218,
+    "title": "TV Modum",
+    "link": "https://cdn010.panaccess.com/5677_streams/TVMODUM/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 219,
+    "title": "Alistiqama TV",
+    "link": "https://jmc-live.ercdn.net/alistiqama/alistiqama.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 220,
+    "title": "Oman Althakafia",
+    "link": "https://partwota.cdn.mgmlcdn.com/omcultural/smil:omcultural.stream.smil/chunklist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 221,
+    "title": "Al Ehsaan TV",
+    "link": "https://cdn.bmstudiopk.com/alehsaan/live/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 222,
+    "title": "Discover Pakistan",
+    "link": "https://livecdn.live247stream.com/discoverpakistan/web/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 223,
+    "title": "Kuriakos TV",
+    "link": "https://w1.manasat.com/ktv/smil:ktv.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 224,
+    "title": "ON FM",
+    "link": "https://5ce9406b73c33.streamlock.net/ONFM/livestream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 225,
+    "title": "RTP International Asia",
+    "link": "http://210.210.155.37/qwr9ew/s/s38/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 226,
+    "title": "Cinema One",
+    "link": "https://cinemaone-abscbn-ono.amagi.tv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 227,
+    "title": "Great Commission TV",
+    "link": "http://45.32.115.103/live/livestream/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 228,
+    "title": "MYX Philippines",
+    "link": "https://myxnola-abscbn-ono.amagi.tv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 229,
+    "title": "Al Jazeera Arabic",
+    "link": "https://live-hls-v3-aja.getaj.net/AJA-V3/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 230,
+    "title": "Al Jazeera Balkans",
+    "link": "https://live-hls-web-ajb.getaj.net/AJB/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 231,
+    "title": "Al Jazeera English",
+    "link": "https://d1cy85syyhvqz5.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/aljazeeraLive/AJE/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 232,
+    "title": "Qatar Television",
+    "link": "https://qatartv.akamaized.net/hls/live/2026573/qtv1/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 233,
+    "title": "7 TV",
+    "link": "http://v4.proofix.ru/7tv-live/tracks-v1a1/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 234,
+    "title": "Kulinar TV Show",
+    "link": "https://api.alpaca.t62a.com/hls/9110/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 235,
+    "title": "Ocean TV",
+    "link": "http://camera.global-x.ru/OceanTV/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 236,
+    "title": "Ювелирочка ТВ",
+    "link": "https://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 237,
+    "title": "Al Ekhbariya",
+    "link": "https://al-ekhbaria-prod-dub.shahid.net/out/v1/d443f3203b444032896e3233cb6eaa84/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 238,
+    "title": "Asharq Discovery",
+    "link": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 239,
+    "title": "Asharq Documentary",
+    "link": "https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 240,
+    "title": "Asharq News",
+    "link": "https://shls-asharq-prod-dub.shahid.net/out/v1/3b6b4902cf8747a28619411239584002/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 241,
+    "title": "CNA International",
+    "link": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 242,
+    "title": "ZooMoo Asia",
+    "link": "https://cdn4.skygo.mn/live/disk1/Zoomoo/HLSv3-FTA/Zoomoo.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 243,
+    "title": "ABN TV",
+    "link": "https://vod2.abn.co.kr/IPHONE/abn.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 244,
+    "title": "CGNTV",
+    "link": "https://cgntvliveweb-998.acs.wecandeo.com/ms/2850/998/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 245,
+    "title": "CTS기독교TV",
+    "link": "https://d34t5yjz1ooymj.cloudfront.net/out/v1/875039d5eba0478fa8375a06b3aa5a37/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 246,
+    "title": "Afriwood Series",
+    "link": "https://origin3.afxp.telemedia.co.za/PremiumFree/afriwoodseries/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 247,
+    "title": "Cinema Hausa",
+    "link": "https://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 248,
+    "title": "Diva",
+    "link": "https://origin3.afxp.telemedia.co.za/PremiumFree/diva/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 249,
+    "title": "Sports Connect",
+    "link": "https://origin3.afxp.telemedia.co.za/PremiumFree/sportsconnect/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 250,
+    "title": "Beautiful Life TV",
+    "link": "https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 251,
+    "title": "Dali TV",
+    "link": "http://www.dalitv.com.tw:4568/live/dali/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 252,
+    "title": "IBN TV",
+    "link": "http://138.68.138.119:8080/live/5a8993709ea19/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 253,
+    "title": "Abood TV",
+    "link": "https://goliveafrica.media:9998/live/644db46d1b776/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 254,
+    "title": "24 Канал",
+    "link": "https://streamvideol1.luxnet.ua/news24/smil:news24.stream.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 255,
+    "title": "BamBarBia TV",
+    "link": "http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 256,
+    "title": "Black Sea TV",
+    "link": "https://stream.skyvision.com.ua/blackseatv/stream/main/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 257,
+    "title": "Alpha Digital",
+    "link": "http://streamfi-alphadgtl1.zettawiseroutes.com:8080/hls/stream_src.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 258,
+    "title": "BBS TV",
+    "link": "https://cdn1.rea.cdn.moderntv.eu/readymedia/stream/BBSTV/5-hls/live-media.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 259,
+    "title": "Bukedde TV 1",
+    "link": "https://stream.hydeinnovations.com/bukedde1flussonic/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 260,
+    "title": "KSTV Uganda",
+    "link": "https://readymedia.moderntv.cloud:8092/distribute/readymedia/KS_TV_stream_dc/5-20-hls/live.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 261,
+    "title": "BBC News (North America)",
+    "link": "https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 262,
+    "title": "BEN Television",
+    "link": "https://webstreaming-11.viewmedia.tv/web_153/Stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 263,
+    "title": "Bloomberg TV Europe",
+    "link": "https://bloomberg.com/media-manifest/streams/eu.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 264,
+    "title": "GB News",
+    "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 265,
+    "title": "ABC News Live 1",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023560/abcnews1/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 266,
+    "title": "ABC News Live 2",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023561/abcnews2/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 267,
+    "title": "ABC News Live 3",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023562/abcnews3/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 268,
+    "title": "ABC News Live 4",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023563/abcnews4/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 269,
+    "title": "ABC News Live 5",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 270,
+    "title": "ABC News Live 6",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 271,
+    "title": "ABC News Live 7",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 272,
+    "title": "ABC News Live 8",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 273,
+    "title": "ABC News Live 9",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023568/abcnews9/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 274,
+    "title": "ABC News Live 10",
+    "link": "https://abcnews-streams.akamaized.net/hls/live/2023569/abcnews10/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 275,
+    "title": "Adult Swim Channel 5",
+    "link": "https://adultswim-vodlive.cdn.turner.com/live/channel-5/stream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 276,
+    "title": "30A Georgia Hollywood Review TV",
+    "link": "https://30a-tv.com/gh.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 277,
+    "title": "ABN China",
+    "link": "https://mediaserver.abnvideos.com/streams/abnchina.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 278,
+    "title": "ABN TV India",
+    "link": "https://mediaserver.abnvideos.com/streams/abntvindia.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 279,
+    "title": "Beach TV Panama City",
+    "link": "http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 280,
+    "title": "Bloomberg TV+ UHD",
+    "link": "https://bloomberg-bloombergtv-1-us.samsung.wurl.tv/manifest/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 281,
+    "title": "FOX News Now",
+    "link": "https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 282,
+    "title": "UCL",
+    "link": "https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 283,
+    "title": "Aguacate TV",
+    "link": "https://streamtv.intervenhosting.net:3040/hybrid/play.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 284,
+    "title": "BTA TV",
+    "link": "https://cloud.fastchannel.es/manifiest/hls/prog9/btatv.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 285,
+    "title": "Cantina TV",
+    "link": "https://vcp.myplaytv.com/cantinatv/cantinatv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 286,
+    "title": "Bac Ninh TV",
+    "link": "https://stream.thingnet.vn/live/smil:BTV.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 287,
+    "title": "Cao Bang TV",
+    "link": "http://118.107.85.4:1935/live/smil:CRTV.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 288,
+    "title": "Dhammasapha TV",
+    "link": "https://livefta.malimarcdn.com/ftaedge00/dhammasapha.stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 289,
+    "title": "Ha Tinh TV",
+    "link": "https://wse.hatinhtv.net/live/httv1/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 290,
+    "title": "Little Saigon TV",
+    "link": "https://media.streambrothers.com:1936/8228/8228/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 291,
+    "title": "Thai Nguyen TV",
+    "link": "https://streaming.thainguyentv.vn/hls/livestream.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 292,
+    "title": "Tien Giang",
+    "link": "http://thtg.vn:8001/thtg.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 293,
+    "title": "Almahriah TV",
+    "link": "https://master.starmena-cloud.com/hls/almahriah.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 294,
+    "title": "Yemen Today TV",
+    "link": "https://video.yementdy.tv/hls/yementoday.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 295,
+    "title": "1KZN TV",
+    "link": "https://cdn.freevisiontv.co.za/sttv/smil:1kzn.stream.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 296,
+    "title": "Afrobeats TV",
+    "link": "https://stream.ecable.tv/afrobeats/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 297,
+    "title": "Cape Town TV",
+    "link": "https://cdn.freevisiontv.co.za/sttv/smil:ctv.stream.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 298,
+    "title": "GOD TV Africa",
+    "link": "https://webstreaming.viewmedia.tv/web_006/Stream/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 299,
+    "title": "Hilaal TV",
+    "link": "https://cdn5.iqsat.net/iq/aa89b15058a61b904359307cc0a5e80a.sdp/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 300,
+    "title": "SABC News",
+    "link": "http://185.59.221.131:8081/live/sabcnews/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 301,
+    "title": "Soweto TV",
+    "link": "https://cdn.freevisiontv.co.za/sttv/smil:soweto.stream.smil/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 302,
+    "title": "MYX Philippines",
+    "link": "https://myxnola-abscbn-ono.amagi.tv/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 303,
+    "title": "Great Commission TV",
+    "link": "http://45.32.115.103/live/livestream/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 304,
+    "title": "ABC News",
+    "link": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 305,
+    "title": "Al Jazeera English",
+    "link": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 306,
+    "title": "BBC News",
+    "link": "https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 307,
+    "title": "Bloomberg",
+    "link": "https://bloomberg.com/media-manifest/streams/us.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 308,
+    "title": "Bloomberg+",
+    "link": "https://bloomberg.com/media-manifest/streams/phoenix-us.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 309,
+    "title": "CBS News",
+    "link": "https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 310,
+    "title": "Channel News Asia",
+    "link": "http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 311,
+    "title": "Cheddar News",
+    "link": "https://livestream.chdrstatic.com/b93e5b0d43ea306310a379971e384964acbe4990ce193c0bd50078275a9a657d/cheddar-42620/cheddarweblive/cheddar/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 312,
+    "title": "CNBC",
+    "link": "https://www.youtube.com/embed/9NyxcX3rhQs?autoplay=1",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 313,
+    "title": "CNN International",
+    "link": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 314,
+    "title": "DW English",
+    "link": "https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 315,
+    "title": "Euronews",
+    "link": "https://rakuten-euronews-1-se.samsung.wurl.tv/manifest/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 316,
+    "title": "France 24 English",
+    "link": "https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 317,
+    "title": "GB News",
+    "link": "https://live-gbnews.simplestreamcdn.com/live5/gbnews/bitrate1.isml/manifest.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 318,
+    "title": "Global News",
+    "link": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62cbef9ebb857100072fc187/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a7bb2-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=28cf81a2-fc9d-48d7-8d50-3eebbcf68d91",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 319,
+    "title": "i24 News",
+    "link": "https://bcovlive-a.akamaihd.net/ecf224f43f3b43e69471a7b626481af0/eu-central-1/5377161796001/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 320,
+    "title": "LiveNOW from FOX",
+    "link": "http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 321,
+    "title": "NBC News Now",
+    "link": "https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-nbcnewsnow/CDN/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 322,
+    "title": "Newsmax TV",
+    "link": "https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 323,
+    "title": "NHK World Japan",
+    "link": "https://ythls.armelin.one/channel/UCSPEjw8F2nQDtmUKPFNF7_A.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 324,
+    "title": "RT",
+    "link": "https://rt-glb.rttv.com/live/rtnews/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 325,
+    "title": "Sky News",
+    "link": "https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 326,
+    "title": "Scripps News",
+    "link": "https://livetv-fa.tubi.video/scripps-news/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 327,
+    "title": "The Guardian",
+    "link": "https://rakuten-guardian-1-ie.samsung.wurl.tv/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 328,
+    "title": "TRT World",
+    "link": "https://tv-trtworld.medya.trt.com.tr/master.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
+  },
+  {
+    "id": 329,
+    "title": "Yahoo! Finance",
+    "link": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
+    "logo": "https://raw.githubusercontent.com/a-ellah/tv_channe/refs/heads/main/logo/2MAR.png"
   }
 ]
